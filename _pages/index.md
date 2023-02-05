@@ -8,7 +8,8 @@ permalink: /
 # 안녕하세요! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  이곳은 세영이의 디지털 가든입니다. 제가 제텔카스텐(Zettelkasten)한 메모들을 읽어볼 수 있어요.  <span style="font-weight: bold">[[Seyoung's Digital Garden]]</span> 에서 즐거운 시간 보내세요! 
+  세영이의 디지털 가든입니다.
+  제 2번째 뇌를 보시려면 클릭! <span style="font-weight: bold">[[your-first-note]]</span> 
 </p>
 
 <strong>Recently updated notes</strong>
