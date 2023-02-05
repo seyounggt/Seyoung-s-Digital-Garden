@@ -8,8 +8,7 @@ permalink: /
 # 안녕하세요! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  세영이의 디지털 가든입니다.
-  제 2번째 뇌를 보시려면 클릭! <span style="font-weight: bold">[[Seyoung's Second Brain]]</span> 
+  세영이의 2번째 뇌를 보시려면 클릭! <span style="font-weight: bold">[[Seyoung's Second Brain]]</span> 
 </p>
 
 <strong>Recently updated notes</strong>
