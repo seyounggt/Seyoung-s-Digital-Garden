@@ -21,5 +21,5 @@ permalink: /about
 - 건강과 체력 증진
 
 **Contacts**
-- [유튜브](https://www.youtube.com/@000_guitar)
+- [Seyoung Guitar 유튜브](https://www.youtube.com/@000_guitar)
 - Email: seyoung.guitar@gmail.com
